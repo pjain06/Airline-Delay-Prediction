@@ -1,4 +1,4 @@
-# Airline-Flight-Prediction
+# Airline-Delay-Prediction
 
 Aim: To Predict the airline delay of flights based on features such as weather, taxi out, distance, departure delay, cancelled, security, taxi in, airline delay
 
